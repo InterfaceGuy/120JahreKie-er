@@ -60,16 +60,16 @@ Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
     - Hervorgehobener Buchstabe: R
 
 11. **Roller** (Martina)
-    - "Mit welchem festlich geschmückten Gefäh**R**t wurde die frisch Vermählte vom Standesamt zum Restaurant chauffiert?"
+    - "Mit welchem festlich geschmückten Gefährt wurde die fri**S**ch Vermählte vom Standesamt zum Restaurant chauffiert?"
     - Zu beantworten von: Claudia/Stefan
     - Bild-Element
-    - Hervorgehobener Buchstabe: R
+    - Hervorgehobener Buchstabe: S
 
 12. **Weisheit & Freundschaft** (Martina)
-    - "An welchem Wochentag teilen Mar**S**ina und Britta bei ihren legendären Abendspaziergängen Weisheiten, Rat und Inspiration?"
+    - "An welchem Wochentag teilen Martina und Britta bei ihren legendären Abend**L**paziergängen Weisheiten, Rat und Inspiration?"
     - Zu beantworten von: Britta
     - Antwort: Mittwoch
-    - Hervorgehobener Buchstabe: S
+    - Hervorgehobener Buchstabe: L
 
 ## Aufgabenverbindungen
 [Wird entwickelt: Wie jede Aufgabe zur nächsten führt]
