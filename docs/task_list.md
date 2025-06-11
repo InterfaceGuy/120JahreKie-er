@@ -66,7 +66,7 @@ Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
     - Hervorgehobener Buchstabe: S
 
 12. **Weisheit & Freundschaft** (Martina)
-    - "An welchem Wochentag teilen Martina und Britta bei ihren legendären Abend**L**paziergängen Weisheiten, Rat und Inspiration?"
+    - "An welchem Wochentag teilen Martina und Britta bei ihren **L**egendären Abendspaziergängen Weisheiten, Rat und Inspiration?"
     - Zu beantworten von: Britta
     - Antwort: Mittwoch
     - Hervorgehobener Buchstabe: L
