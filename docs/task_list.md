@@ -14,10 +14,6 @@ Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
    - Canvas-Bild von Martina als Erzengel
    - Hervorgehobener Buchstabe: T
    
-3. **Nageln** (Aktivität)
-   - "Mit maximal 5 Schlägen den Na**G**el in ein Holz versenken"
-   - Geschicklichkeitsaufgabe
-   - Hervorgehobener Buchstabe: G
 
 4. **Alter & Jahre** (HG)
    - "Auf welcher explosiven 'Sitzgelegenheit' nah**M** HG als Neunjähriger Platz, während andere neue Tennisplätze bauten?"
@@ -57,22 +53,12 @@ Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
    - Canvas-Element
    - Hervorgehobener Buchstabe: T
 
-10. **Bierdeckelwurf** (Aktivität)
-    - "Wurf in einen Eime**R**"
-    - Geschicklichkeitsaufgabe
-    - Hervorgehobener Buchstabe: R
-
-11. **Roller** (Martina)
+10. **Roller** (Martina)
     - "Mit welchem festlich geschmückten Gefährt wurde die fri**S**ch Vermählte vom Standesamt zum Restaurant chauffiert?"
     - Zu beantworten von: Claudia/Stefan
     - Bild-Element
     - Hervorgehobener Buchstabe: S
 
-12. **Weisheit & Freundschaft** (Martina)
-    - "An welchem Wochentag teilen Martina und Britta bei ihren **L**egendären Abendspaziergängen Weisheiten, Rat und Inspiration?"
-    - Zu beantworten von: Britta
-    - Antwort: Mittwoch
-    - Hervorgehobener Buchstabe: L
 
 ## Aufgabenverbindungen
 [Wird entwickelt: Wie jede Aufgabe zur nächsten führt]

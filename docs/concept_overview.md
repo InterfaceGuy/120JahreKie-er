@@ -8,9 +8,11 @@
 
 ## Spielmechanik
 - Jeder Tisch hat einen "Botschafter", der sich zwischen den Tischen bewegen kann
-- Aufgaben sind miteinander verbunden - eine Lösung führt zur nächsten
+- Die 11 Aufgaben bilden einen Kreis - jede Nummer führt zur nächsten
 - Spieler müssen mit anderen Tischen interagieren, um Antworten zu finden
-- Der Hauptschatz (Feuerzeug und Tischfeuerwerk) benötigt Informationen aus allen 12 Aufgaben
+- Nach Lösung aller Aufgaben: Game Master bringt den Masterzettel
+- Game Master validiert die Lösungen vor Übergabe des Masterzettels
+- Der Hauptschatz (Feuerzeug und Tischfeuerwerk) wird nach erfolgreicher Validierung zugänglich
 - Belohnung: Eröffnung des Dessert-Buffets
 
 ## Aufgabentypen
