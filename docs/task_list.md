@@ -65,6 +65,9 @@ Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
 ## Aufgabenverbindungen
 [Wird entwickelt: Wie jede Aufgabe zur nächsten führt]
 
+## Wichtiger Hinweis für alle Aufgaben
+Besprecht am Tisch, wer als Botschafter losgeht - es darf immer nur EINE Person gleichzeitig unterwegs sein! Dies gilt für Aktivitäten genauso wie für das Einholen von Informationen.
+
 ## Spielziel
 Fundort eines Feuerzeugs und Tischfeuerwerk werden auf dem Gewinnertisch angezündet
 

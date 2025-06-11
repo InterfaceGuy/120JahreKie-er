@@ -9,6 +9,7 @@ Ihr seid Teil einer spannenden Geburtstagsherausforderung, bei der Teamwork und 
 3. Aufgaben dauern etwa 90 Sekunden
 4. Die Lösung einer Aufgabe führt zur nächsten
 5. Arbeitet mit anderen Tischen zusammen
+6. Wichtig: Pro Tisch darf immer nur EIN Botschafter unterwegs sein!
 
 ## Spielablauf
 1. Beginnt mit eurer zugewiesenen Aufgabe
