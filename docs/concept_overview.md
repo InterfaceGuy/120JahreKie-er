@@ -10,7 +10,8 @@
 - Jeder Tisch hat einen "Botschafter", der sich zwischen den Tischen bewegen kann
 - Aufgaben sind miteinander verbunden - eine Lösung führt zur nächsten
 - Spieler müssen mit anderen Tischen interagieren, um Antworten zu finden
-- Der Hauptschatz benötigt Informationen aus allen 12 Aufgaben
+- Der Hauptschatz (Feuerzeug und Tischfeuerwerk) benötigt Informationen aus allen 12 Aufgaben
+- Belohnung: Eröffnung des Dessert-Buffets
 
 ## Aufgabentypen
 1. Wissensfragen
