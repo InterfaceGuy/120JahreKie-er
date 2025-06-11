@@ -6,6 +6,7 @@ Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
 1. **Kniffel/Rechnung** (Martina + HG)
    - "Nehmt die Summe der Quersumme von Martinas G**E**burtstag 13031964 (27) und HGs Geburtstag 05061963 (30) jeweils gelesen ohne Punkt und Komma und mit kompletten Jahrhundert und multipliziert diese mit der Anzahl der gesamten Kinder (5)"
    - Lösung: 285
+   - Hervorgehobener Buchstabe: E
 
 2. **Erzengel & Martinsael** (Martina)
    - "Welchen himmlischen Erzengel-Namen ha**T** sich Martina schon als Kind höchstpersönlich verliehen?"
@@ -19,15 +20,16 @@ Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
    - Hervorgehobener Buchstabe: G
 
 4. **Alter & Jahre** (HG)
-   - "Auf welcher explos**I**ven 'Sitzgelegenheit' nahm HG als Neunjähriger Platz, während andere neue Tennisplätze bauten?"
+   - "Auf welcher explosiven 'Sitzgelegenheit' nah**M** HG als Neunjähriger Platz, während andere neue Tennisplätze bauten?"
    - Zu beantworten von: Monika
    - Bild von HG mit "Bombe"
+   - Hervorgehobener Buchstabe: M
 
 5. **TC 72 Griesheim** (HG)
-   - "Während andere die Uni von innen kennenlern**E**n mussten - auf welchem Tennisplatz verbrachte HG seine Studienzeit?"
+   - "Während andere die **U**ni von innen kennenlernen mussten - auf welchem Tennisplatz verbrachte HG seine Studienzeit?"
    - Zu beantworten von: Eckard
    - Canva Bild vom Tennisplatz
-   - Hervorgehobener Buchstabe: E
+   - Hervorgehobener Buchstabe: U
 
 6. **Petra** (Martina)
    - "Welches besondere **K**ind teilte sich mit David die Spielzeit, als Martina und Gesa sich mit Maxikoffern auf der Baustelle trafen?"
@@ -43,10 +45,11 @@ Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
    - Hervorgehobener Buchstabe: A
 
 8. **Gemeinsame Zeitreise** (Martina+HG)
-   - "Verbinde die Ereignisse mit den richtigen **Z**eitraum:"
+   - "Verbinde die Ereignisse mit den richtigen Jahres**Z**ahlen:"
    - Ereignisse: Erstes Date / Zusammenzug / Grundstückskauf / Hochzeit
    - Jahre: 2012 / 2014 / 2015 / 2017
    - Tipp: Die Nachbarn wissen mehr!
+   - Hervorgehobener Buchstabe: Z
 
 9. **Tiger** (Martina + HG)
    - "Welche Katze sorgte mit ihrem charman**T**en Auftritt dafür, dass Martina und HG ihre Traumwohnung bekamen?"
@@ -55,7 +58,7 @@ Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
    - Hervorgehobener Buchstabe: T
 
 10. **Bierdeckelwurf** (Aktivität)
-    - "Wurf in einen **R**imer"
+    - "Wurf in einen Eime**R**"
     - Geschicklichkeitsaufgabe
     - Hervorgehobener Buchstabe: R
 
