@@ -58,7 +58,7 @@ Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
     - Bild-Element
 
 12. **Weisheit & Freundschaft** (Martina)
-    - "An welchem Wochentag teilen Martina und Britta bei ihren legendären Abendspaziergängen Weisheiten, Rat und Inspiration?"
+    - "An welchem Wochentag **T**eilen Martina und Britta bei ihren legendären Abendspaziergängen Weisheiten, Rat und Inspiration?"
     - Zu beantworten von: Britta
     - Antwort: Mittwoch
 
