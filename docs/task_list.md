@@ -4,7 +4,7 @@
 Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
 
 1. **Kniffel/Rechnung** (Martina + HG)
-   - "Nehmt die Summe der Quersumme von Martinas Geburtstag 13031964 (27) und HGs Geburtstag 05061963 (30) jeweils gelesen ohne Punkt und Komma und mit kompletten Jahrhundert und multipliziert diese mit der Anzahl der gesamten Kinder (5)"
+   - "Nehmt die Summe der Quersumme von Martinas G**E**burtstag 13031964 (27) und HGs Geburtstag 05061963 (30) jeweils gelesen ohne Punkt und Komma und mit kompletten Jahrhundert und multipliziert diese mit der Anzahl der gesamten Kinder (5)"
    - Lösung: 285
 
 2. **Erzengel & Martinsael** (Martina)
@@ -17,7 +17,7 @@ Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
    - Geschicklichkeitsaufgabe
 
 4. **Alter & Jahre** (HG)
-   - "Auf welcher explosiven 'Sitzgelegenheit' nahm HG als Neunjähriger Platz, während andere neue Tennisplätze bauten?"
+   - "Auf welcher explos**I**ven 'Sitzgelegenheit' nahm HG als Neunjähriger Platz, während andere neue Tennisplätze bauten?"
    - Zu beantworten von: Monika
    - Bild von HG mit "Bombe"
 
@@ -38,7 +38,7 @@ Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
    - Bild vom Nilpferd
 
 8. **Gemeinsame Zeitreise** (Martina+HG)
-   - "Verbinde die Ereignisse mit den richtigen Jahren:"
+   - "Verbinde die Ereignisse mit den richtigen **Z**eitraum:"
    - Ereignisse: Erstes Date / Zusammenzug / Grundstückskauf / Hochzeit
    - Jahre: 2012 / 2014 / 2015 / 2017
    - Tipp: Die Nachbarn wissen mehr!
