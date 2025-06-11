@@ -1,56 +1,56 @@
-# Task List - Double 60th Birthday Escape Room
+# Aufgabenliste - Doppelter 60. Geburtstag Escape Room
 
-## Task Overview
-Based on the notes, here are the 12 tasks in sequence:
+## Aufgabenübersicht
+Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
 
-1. **Kniffel/Rechnung** (Calculation)
-   - Birthday-related calculation task
-   - Includes VAT component
+1. **Kniffel/Rechnung**
+   - Geburtstagsrelevante Rechenaufgabe
+   - Beinhaltet MwSt.-Komponente
 
 2. **Erzengel & Martin Engel**
-   - Task involving bikes/tricycles
-   - Photo/canvas element
+   - Aufgabe mit Fahrrädern/Dreirädern
+   - Foto/Canvas-Element
 
-3. **Nageln** (Activity)
-   - Physical task involving nails
-   - Quick skill-based challenge
+3. **Nageln** (Aktivität)
+   - Physische Aufgabe mit Nägeln
+   - Schnelle Geschicklichkeitsherausforderung
 
 4. **Alter & Jahre**
-   - Question about years/age
-   - Includes photo element
-   - "Bombe" component
+   - Frage über Jahre/Alter
+   - Beinhaltet Fotoelement
+   - "Bombe"-Komponente
 
 5. **TC 72 Griesheim**
-   - Sports/club related task
-   - Includes location element
+   - Sportverein-bezogene Aufgabe
+   - Beinhaltet Ortselement
 
 6. **Petra**
-   - Personal knowledge question
-   - Photo album component
+   - Persönliche Wissensfrage
+   - Fotoalbum-Komponente
 
 7. **Nilpferd**
-   - Task involving "Frank"
-   - Black/white flight component
+   - Aufgabe mit "Frank"
+   - Schwarz/Weiß Flug-Komponente
 
 8. **Rechnung**
-   - Time-based calculation
-   - Mathematical puzzle
+   - Zeitbasierte Berechnung
+   - Mathematisches Rätsel
 
 9. **Tiger**
-   - Photo-based task
-   - Includes "Nachbarn" element
+   - Fotobasierte 
+   - Beinhaltet "Nachbarn"-Element
 
 10. **Bilderwelt**
-   - Task about "Wolf in einem Eimer"
-   - Visual puzzle element
+    - Aufgabe über "Wolf in einem Eimer"
+    - Visuelles Rätselelement
 
 11. **Roller**
-   - Photo-based task
-   - Involves Claudia/Stefan
+    - Fotobasierte Aufgabe
+    - Involviert Claudia/Stefan
 
 12. **Plattform**
-   - Time-related question
-   - Involves "Britta"
+    - Zeitbezogene Frage
+    - Involviert "Britta"
 
-## Task Connections
-[To be developed: How each task leads to the next]
+## Aufgabenverbindungen
+[Wird entwickelt: Wie jede Aufgabe zur nächsten führt]

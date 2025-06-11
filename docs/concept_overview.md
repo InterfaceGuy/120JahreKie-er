@@ -1,32 +1,32 @@
-# Double 60th Birthday Escape Room Game - Concept Overview
+# Doppelter 60. Geburtstag Escape Room Spiel - Konzeptübersicht
 
-## Game Structure
-- 12 interconnected mini-games forming a circular chain
-- 11 tables of players, each starting at different points
-- Average solving time: 90 seconds per task
-- Final goal: Collect information from all tasks to solve main puzzle
+## Spielstruktur
+- 12 verbundene Mini-Spiele in einer Kreisform
+- 11 Spielertische, jeder mit unterschiedlichem Startpunkt
+- Durchschnittliche Lösungszeit: 90 Sekunden pro Aufgabe
+- Hauptziel: Informationen aus allen Aufgaben sammeln, um das Haupträtsel zu lösen
 
-## Game Mechanics
-- Each table has an "ambassador" who can move between tables
-- Tasks are interconnected - solving one leads to the next
-- Players need to interact with other tables to find answers
-- Final treasure requires information from all 12 tasks
+## Spielmechanik
+- Jeder Tisch hat einen "Botschafter", der sich zwischen den Tischen bewegen kann
+- Aufgaben sind miteinander verbunden - eine Lösung führt zur nächsten
+- Spieler müssen mit anderen Tischen interagieren, um Antworten zu finden
+- Der Hauptschatz benötigt Informationen aus allen 12 Aufgaben
 
-## Task Types
-1. Knowledge Questions
-2. Physical Activities (2 tasks)
-3. Puzzle Solving (2 tasks)
-4. Information Gathering
-5. Social Interaction Tasks
+## Aufgabentypen
+1. Wissensfragen
+2. Physische Aktivitäten (2 Aufgaben)
+3. Rätsel lösen (2 Aufgaben)
+4. Informationssammlung
+5. Soziale Interaktionsaufgaben
 
-## Game Flow
-1. Tables receive different starting points
-2. Players solve their task
-3. Solution leads to next task location
-4. Process repeats until all tasks completed
-5. Final puzzle combines information from all tasks
+## Spielablauf
+1. Tische erhalten unterschiedliche Startpunkte
+2. Spieler lösen ihre Aufgabe
+3. Lösung führt zum nächsten Aufgabenort
+4. Prozess wiederholt sich bis alle Aufgaben gelöst sind
+5. Finales Rätsel kombiniert Informationen aus allen Aufgaben
 
-## Time Management
-- Each task designed for ~90 seconds
-- Quick turnover keeps game dynamic
-- Encourages movement and interaction
+## Zeitmanagement
+- Jede Aufgabe ist für ~90 Sekunden ausgelegt
+- Schneller Wechsel hält das Spiel dynamisch
+- Fördert Bewegung und Interaktion

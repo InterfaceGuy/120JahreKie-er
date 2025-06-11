@@ -1,32 +1,32 @@
-# Player Guide - Birthday Escape Room Challenge
+# Spieleranleitung - Geburtstags-Escape-Room
 
-## Welcome to the Game!
-You're part of an exciting birthday challenge where teamwork and quick thinking are key.
+## Willkommen zum Spiel!
+Ihr seid Teil einer spannenden Geburtstagsherausforderung, bei der Teamwork und schnelles Denken der Schlüssel zum Erfolg sind.
 
-## Basic Rules
-1. Each table is a team
-2. One person from your table is your "ambassador"
-3. Tasks take about 90 seconds each
-4. Solving one task leads to the next
-5. Work together with other tables
+## Grundregeln
+1. Jeder Tisch ist ein Team
+2. Eine Person von eurem Tisch ist euer "Botschafter"
+3. Aufgaben dauern etwa 90 Sekunden
+4. Die Lösung einer Aufgabe führt zur nächsten
+5. Arbeitet mit anderen Tischen zusammen
 
-## How to Play
-1. Start with your assigned task
-2. Read the task carefully
-3. If you need information, your ambassador can visit other tables
-4. Once solved, you'll get directions to the next task
-5. Keep track of important information for the final puzzle
+## Spielablauf
+1. Beginnt mit eurer zugewiesenen Aufgabe
+2. Lest die Aufgabe sorgfältig
+3. Wenn ihr Informationen braucht, kann euer Botschafter andere Tische besuchen
+4. Nach der Lösung erhaltet ihr Hinweise zur nächsten Aufgabe
+5. Merkt euch wichtige Informationen für das finale Rätsel
 
-## Tips
-- Keep solutions brief - most tasks are quick
-- Help other tables when they visit you
-- Remember: every piece of information might be important
-- Have fun and interact with other guests!
+## Tipps
+- Haltet die Lösungen kurz - die meisten Aufgaben sind schnell zu lösen
+- Helft anderen Tischen, wenn sie euch besuchen
+- Denkt dran: Jede Information könnte wichtig sein
+- Habt Spaß und interagiert mit den anderen Gästen!
 
-## Need Help?
-- Ask the game coordinators if you're stuck
-- Remember: simple solutions are usually correct
-- Keep moving - don't spend too long on one task
+## Braucht ihr Hilfe?
+- Fragt die Spielleiter, wenn ihr nicht weiterkommt
+- Denkt dran: Einfache Lösungen sind meist die richtigen
+- Bleibt in Bewegung - verbringt nicht zu viel Zeit mit einer Aufgabe
 
-## Final Goal
-Collect all pieces of information to solve the main puzzle and find the treasure!
+## Endziel
+Sammelt alle Informationsteile, um das Haupträtsel zu lösen und den Schatz zu finden!
