@@ -7,7 +7,7 @@ Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
    - "Nehmt die Summe der Quersumme von Martinas Geburtstag 13031964 (27) und HGs Geburtstag 05061963 (30) jeweils gelesen ohne Punkt und Komma und mit kompletten Jahrhundert und multipliziert diese mit der Anzahl der gesamten Kinder (5)"
    - Lösung: 285
 
-2. **Erzengel & Martin Engel** (Martina)
+2. **Erzengel & Martinsael** (Martina)
    - "Welchen himmlischen Erzengel-Namen hat sich Martina schon als Kind höchstpersönlich verliehen?"
    - Zu beantworten von: Gabi, Birgit
    - Canvas-Bild von Martina als Erzengel
@@ -17,43 +17,48 @@ Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
    - Geschicklichkeitsaufgabe
 
 4. **Alter & Jahre** (HG)
-   - "Auf welchem explosiven Sitzmöbel nahm HG als neunjähriger Platz – cool wie ein Stuntman, ahnungslos wie ein Schulkind – während andere neue Tennisplätze bauten?"
+   - "Auf welcher explosiven 'Sitzgelegenheit' nahm HG als Neunjähriger Platz, während andere neue Tennisplätze bauten?"
    - Zu beantworten von: Monika
    - Bild von HG mit "Bombe"
 
 5. **TC 72 Griesheim** (HG)
-   - "In welchem Tennisklub hat HG während des Studiums Tennis gespielt?"
+   - "Während andere die Uni von innen kennenlernen mussten - auf welchem Tennisplatz verbrachte HG seine Studienzeit?"
    - Zu beantworten von: Eckard
    - Canva Bild vom Tennisplatz
 
 6. **Petra** (Martina)
+   - "Welches besondere Tageskind teilte sich mit David die Spielzeit, als Martina und Gesa sich mit Maxikoffern auf der Baustelle trafen?"
    - Zu beantworten von: Gesa
    - Antwort: Lea-Sophie
    - Bild von David und Lea-Sophie
 
 7. **Nilpferd** (HG)
+   - "Welchem der gefährlichsten Tiere Afrikas paddelten zwei ahnungslose Europäer für ein 'besseres Foto' entgegen?"
    - Zu beantworten von: Frank
-   - Bezug zu Afrika
    - Bild vom Nilpferd
 
-8. **Rechnung** (Martina + HG)
-   - "Gemeinsame Zeit: 2012 zusammen, 2014 zusammen gezogen, 2015 Kauf des Grundstücks 2017 Hochzeit"
-   - Zeitbasierte Berechnung
+8. **Gemeinsame Zeitreise** (Martina+HG)
+   - "Verbinde die Ereignisse mit den richtigen Jahren:"
+   - Ereignisse: Erstes Date / Zusammenzug / Grundstückskauf / Hochzeit
+   - Jahre: 2012 / 2014 / 2015 / 2017
+   - Tipp: Die Nachbarn wissen mehr!
 
 9. **Tiger** (Martina + HG)
+   - "Welche Katze sorgte mit ihrem charmanten Auftritt dafür, dass Martina und HG ihre Traumwohnung bekamen?"
    - Zu beantworten von: Nachbarn
    - Canvas-Element
 
 10. **Bierdeckelwurf** (Aktivität)
-    - "Wolf in einem Eimer"
+    - "Wurf in einen Eimer"
     - Geschicklichkeitsaufgabe
 
 11. **Roller** (Martina)
+    - "Mit welchem festlich geschmückten Gefährt wurde die frisch Vermählte vom Standesamt zum Restaurant chauffiert?"
     - Zu beantworten von: Claudia/Stefan
     - Bild-Element
 
-12. **Plattform** (Martina)
-    - "An welchem Wochentag verschwindet Martina seit Jahren auf mysteriöse Weise?"
+12. **Weisheit & Freundschaft** (Martina)
+    - "An welchem Wochentag teilen Martina und Britta bei ihren legendären Abendspaziergängen Weisheiten, Rat und Inspiration?"
     - Zu beantworten von: Britta
     - Antwort: Mittwoch
 
