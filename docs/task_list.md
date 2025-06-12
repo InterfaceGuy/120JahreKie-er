@@ -1,19 +1,17 @@
 # Aufgabenliste - Doppelter 60. Geburtstag Escape Room
 
 ## Aufgabenübersicht
-Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
 
 1. **Kniffel/Rechnung** (Martina + HG)
    - "Nehmt die Summe der Quersumme von Martinas G**E**burtstag 13031964 (27) und HGs Geburtstag 05061963 (30) jeweils gelesen ohne Punkt und Komma und mit kompletten Jahrhundert und multipliziert diese mit der Anzahl der gesamten Kinder (5)"
    - Lösung: 285
    - Hervorgehobener Buchstabe: E
 
-2. **Erzengel & Martinsael** (Martina)
+2. **Erzengel Martinsael** (Martina)
    - "Welchen himmlischen Erzengel-Namen ha**T** sich Martina schon als Kind höchstpersönlich verliehen?"
    - Zu beantworten von: Gabi, Birgit
    - Canvas-Bild von Martina als Erzengel
    - Hervorgehobener Buchstabe: T
-   
 
 4. **Alter & Jahre** (HG)
    - "Auf welcher explosiven 'Sitzgelegenheit' nah**M** HG als Neunjähriger Platz, während andere neue Tennisplätze bauten?"
@@ -27,7 +25,7 @@ Basierend auf den Notizen, hier die 12 Aufgaben in Reihenfolge:
    - Canva Bild vom Tennisplatz
    - Hervorgehobener Buchstabe: U
 
-6. **Petra** (Martina)
+1. Gesa (Martina)
    - "Welches besondere **K**ind teilte sich mit David die Spielzeit, als Martina und Gesa sich mit Maxikoffern auf der Baustelle trafen?"
    - Zu beantworten von: Gesa
    - Antwort: Lea-Sophie
