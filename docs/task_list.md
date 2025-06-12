@@ -52,14 +52,14 @@
    - Antwort: witzige Antwort
 
 10. **Roller** (Martina)
-    - "Mit welchem festlich geschmückten Gefährt wurde die frisch Vermählte vom Standesamt zum Restaurant chauffiert?"
-    - Zu beantworten von: Claudia/Stefan
-    - Antwort: Roller
+   - "Mit welchem festlich geschmückten Gefährt wurde die frisch Vermählte vom Standesamt zum Restaurant chauffiert?"
+   - Zu beantworten von: Claudia/Stefan
+   - Antwort: Roller
 
 11. **Britta** (Martina)
-    - "Welchen Stadtteil wollte Martina mit ihrer langjährigen Freundin im Rahmen eines Wettbewerbes bereichern?"
-    - Zu beantworten von: Britta
-    - Antwort: Rüppurr
+   - "Welchen Stadtteil wollte Martina mit ihrer langjährigen Freundin im Rahmen eines Wettbewerbes bereichern?"
+   - Zu beantworten von: Britta
+   - Antwort: Rüppurr
 
 ## Aufgabenverbindungen
 Aufgabentext auf einem Zettel passt zu Bild auf nächstem Zettel
