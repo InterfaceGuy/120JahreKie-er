@@ -27,24 +27,24 @@
 - Fördert Bewegung und Interaktion
 
 
-TODO:
-- hervorgehobene Buchstaben entfernen (sowohl im text als auch stichpunkte)
-- zahlen der aufgaben anpassen
-- Aufgabenliste auf 11 items ergänzen
-- Fragen schön ausformulieren
-- Finales Kreuzworträtsel erstellen
-- Verbindung zu vierstelligem Mastercode herstellen
-	- e.g. vierstelliges Lösungswort in Kreuzworträtsel auf Alphabet Nummern mappen
-- Relevante Bilder finden bzw. generieren
-- Aufgabenzettel gestalten
-	- Bild oben, Aufgabentext unten
-	- Aufgabentext und Bild verbinden jeweils immer zwei aufeinanderfolgende Aufgabenzettel miteinander um den Kreis zu formen
-	- Hinweistext "immer nur ein Bote" als Fußnote
-	- Format: vertikale Hälfte von A4 Blatt
-- Aufgabenzettel drucken
-	- 12 sets (11+1 backup)
-	- 12 zettel pro set (11 + 1 Masteraufgabe)
-- A4 Papiere zerschneiden
-- Zettel falten
-- Zettel zukleben
-- 11 Tüten befüllen
+## TODO Liste:
+- [x] hervorgehobene Buchstaben entfernen (sowohl im text als auch stichpunkte)
+- [ ] zahlen der aufgaben anpassen
+- [ ] Aufgabenliste auf 11 items ergänzen
+- [ ] Fragen schön ausformulieren
+- [ ] Finales Kreuzworträtsel erstellen
+- [ ] Verbindung zu vierstelligem Mastercode herstellen
+  - [ ] vierstelliges Lösungswort in Kreuzworträtsel auf Alphabet Nummern mappen
+- [ ] Relevante Bilder finden bzw. generieren
+- [ ] Aufgabenzettel gestalten
+  - [ ] Bild oben, Aufgabentext unten
+  - [ ] Aufgabentext und Bild verbinden jeweils immer zwei aufeinanderfolgende Aufgabenzettel miteinander um den Kreis zu formen
+  - [ ] Hinweistext "immer nur ein Bote" als Fußnote
+  - [ ] Format: vertikale Hälfte von A4 Blatt
+- [ ] Aufgabenzettel drucken
+  - [ ] 12 sets (11+1 backup)
+  - [ ] 12 zettel pro set (11 + 1 Masteraufgabe)
+- [ ] A4 Papiere zerschneiden
+- [ ] Zettel falten
+- [ ] Zettel zukleben
+- [ ] 11 Tüten befüllen
