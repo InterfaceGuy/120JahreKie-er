@@ -46,20 +46,20 @@
    - Zu beantworten von: Nachbarn
    - Antwort: Tiger
 
-9. Arbeitskollegen (HG)
-- "Witzige Frage"
-- Zu beantworten von: Arbeitskollegen
-- Antwort: witzige Antwort
+9. **Arbeitskollegen** (HG)
+   - "Witzige Frage"
+   - Zu beantworten von: Arbeitskollegen
+   - Antwort: witzige Antwort
 
 10. **Roller** (Martina)
     - "Mit welchem festlich geschmückten Gefährt wurde die frisch Vermählte vom Standesamt zum Restaurant chauffiert?"
     - Zu beantworten von: Claudia/Stefan
     - Antwort: Roller
 
-11. Britta
-- "Welchen Stadtteil wollte Martina mit ihrer langjährigen Freundin im Rahmen eines Wettbewerbes bereichern?"
-- Zu beantworten von Britta
-- Antwort: Rüppurr
+11. **Britta** (Martina)
+    - "Welchen Stadtteil wollte Martina mit ihrer langjährigen Freundin im Rahmen eines Wettbewerbes bereichern?"
+    - Zu beantworten von: Britta
+    - Antwort: Rüppurr
 
 ## Aufgabenverbindungen
 Aufgabentext auf einem Zettel passt zu Bild auf nächstem Zettel
