@@ -10,16 +10,19 @@
    - "Welchen himmlischen Erzengel-Namen hat sich Martina schon als Kind höchstpersönlich verliehen?"
    - Zu beantworten von: Gabi, Birgit
    - Canvas-Bild von Martina als Erzengel
+   - Antwort: Martinsael
 
 3. **Alter & Jahre** (HG)
    - "Auf welcher explosiven 'Sitzgelegenheit' nahm HG als Neunjähriger Platz, während andere neue Tennisplätze bauten?"
    - Zu beantworten von: Monika
    - Bild von HG mit "Bombe"
+   - Antwort: Bombe
 
 4. **TC 72 Griesheim** (HG)
    - "Während andere die Uni von innen kennenlernen mussten - auf welchem Tennisplatz verbrachte HG seine Studienzeit?"
    - Zu beantworten von: Eckard
    - Canva Bild vom Tennisplatz
+   - Antwort: TC 72 Griesheim
 
 5. **Gesa** (Martina)
    - "Welches besondere Kind teilte sich mit David die Spielzeit, als Martina und Gesa sich mit Maxikoffern auf der Baustelle trafen?"
@@ -31,26 +34,35 @@
    - "Welchem der gefährlichsten Tiere Afrikas paddelten zwei ahnungslose Europäer für ein 'besseres Foto' entgegen?"
    - Zu beantworten von: Frank
    - Bild vom Nilpferd
+   - Antwort: Nilpferd
 
 7. **Gemeinsame Zeitreise** (Martina+HG)
    - "Verbinde die Ereignisse mit den richtigen Jahreszahlen:"
    - Ereignisse: Erstes Date / Zusammenzug / Grundstückskauf / Hochzeit
    - Jahre: 2012 / 2014 / 2015 / 2017
-   - Tipp: Die Nachbarn wissen mehr!
 
 8. **Tiger** (Martina + HG)
    - "Welche Katze sorgte mit ihrem charmanten Auftritt dafür, dass Martina und HG ihre Traumwohnung bekamen?"
    - Zu beantworten von: Nachbarn
-   - Canvas-Element
+   - Antwort: Tiger
 
-9. **Roller** (Martina)
+9. Arbeitskollegen (HG)
+- "Witzige Frage"
+- Zu beantworten von: Arbeitskollegen
+- Antwort: witzige Antwort
+
+10. **Roller** (Martina)
     - "Mit welchem festlich geschmückten Gefährt wurde die frisch Vermählte vom Standesamt zum Restaurant chauffiert?"
     - Zu beantworten von: Claudia/Stefan
-    - Bild-Element
+    - Antwort: Roller
 
+11. Britta
+- "Welchen Stadtteil wollte Martina mit ihrer langjährigen Freundin im Rahmen eines Wettbewerbes bereichern?"
+- Zu beantworten von Britta
+- Antwort: Rüppurr
 
 ## Aufgabenverbindungen
-[Wird entwickelt: Wie jede Aufgabe zur nächsten führt]
+Aufgabentext auf einem Zettel passt zu Bild auf nächstem Zettel
 
 ## Wichtiger Hinweis für alle Aufgaben
 Besprecht am Tisch, wer als Botschafter losgeht - es darf immer nur EINE Person gleichzeitig unterwegs sein! Dies gilt für Aktivitäten genauso wie für das Einholen von Informationen.
