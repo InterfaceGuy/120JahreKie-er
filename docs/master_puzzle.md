@@ -1,20 +1,24 @@
 # Das finale Rätsel
 
-Findet die vier Buchstaben:
-**Z E I T**
+Für den Code des Schlosses müsst ihr ein Lösungswort aus vier Buchstaben finden. Jeder Buchstabe ergibt sich aus einer der vorherigen Antworten.
 
-Diese Buchstaben sind in vier der elf Aufgabenzettel rot hervorgehoben.
-Die Nummern dieser Aufgabenzettel ergeben in der richtigen Reihenfolge den Code für das Zahlenschloss.
+|                                                         |                                                          |                                                         |                                                          |
+| ------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
+|                                                         |                                                          |                                                         |                                                          |
+| **G**                                                   | **A**                                                    | **B**                                                   | **E**                                                    |
+| ↑                                                       | ↑                                                        | ↑                                                       | ↑                                                        |
+| Der **3.** Buchstabe <br>der Antwort zu <br>**Frage 8** | Der **10.** Buchstabe <br>der Antwort zu <br>**Frage 9** | Der **1.** Buchstabe <br>der Antwort zu <br>**Frage 3** | Der **4.** Buchstabe <br>der Antwort zu <br>**Frage 10** |
 
-Beispiel:
-- Wenn der Buchstabe "Z" in Aufgabe 3 hervorgehoben ist
-- Der Buchstabe "E" in Aufgabe 1
-- Der Buchstabe "I" in Aufgabe 4 
-- Der Buchstabe "T" in Aufgabe 2
+**Begründung der Wortwahl:**
 
-Dann wäre der Code: 3142
+- **G** aus Ti**G**er (Frage 8)
+    
+- **A** aus Wolfipedi**A** (Frage 9)
+    
+- **B** aus **B**ombe (Frage 3)
+    
+- **E** aus Roll**E**r (Frage 10)
+    
 
-## Hinweis für Game Master
-- Überprüfen Sie alle 11 Lösungen des Teams
-- Geben Sie Feedback zu eventuell falschen Lösungen
-- Übergeben Sie diesen Zettel erst, wenn alle Lösungen korrekt sind
+**Zusatz-Anleitung für den Zahlencode:**  
+"Habt ihr das Lösungswort? Perfekt! Wandelt nun jeden Buchstaben in die entsprechende Zahl um, basierend auf seiner Position im Alphabet (A=1, B=2, C=3 usw.), um den finalen Code zu erhalten."

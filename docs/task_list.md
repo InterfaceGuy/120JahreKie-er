@@ -3,13 +3,14 @@
 ## Aufgabenübersicht
 
 1. **Kniffel/Rechnung** (Martina + HG)
-   - "Nehmt die Summe der Quersumme von Martinas Geburtstag 13031964 (27) und HGs Geburtstag 05061963 (30) jeweils gelesen ohne Punkt und Komma und mit kompletten Jahrhundert und multipliziert diese mit der Anzahl der gesamten Kinder (5)"
+   - "Nehmt die Summe der Quersumme von Martina's und HG's Geburtstag im Format TTMMJJJJ und multipliziert diese mit der Anzahl der gesamten Kinder"
+   -  13031964 (27) und HGs Geburtstag 05061963 (30)
    - Lösung: 285
 
 2. **Erzengel Martinsael** (Martina)
    - "Welchen himmlischen Erzengel-Namen hat sich Martina schon als Kind höchstpersönlich verliehen?"
    - Zu beantworten von: Gabi, Birgit
-   - Canvas-Bild von Martina als Erzengel
+   - Bild von Martina als Erzengel
    - Antwort: Martinsael
 
 3. **Alter & Jahre** (HG)
@@ -19,13 +20,13 @@
    - Antwort: Bombe
 
 4. **TC 72 Griesheim** (HG)
-   - "Während andere die Uni von innen kennenlernen mussten - auf welchem Tennisplatz verbrachte HG seine Studienzeit?"
+   - "Wie heißt der Tennisclub in dem HG während seines Studiums unzählige Stunden verbrachte?"
    - Zu beantworten von: Eckard
-   - Canva Bild vom Tennisplatz
+   - Bild vom Tennisplatz
    - Antwort: TC 72 Griesheim
 
 5. **Gesa** (Martina)
-   - "Welches besondere Kind teilte sich mit David die Spielzeit, als Martina und Gesa sich mit Maxikoffern auf der Baustelle trafen?"
+   - "Wie lautet der Name des Kindes, das sich mit David die Spielzeit teilte, als Martina Tagesmutter war?"
    - Zu beantworten von: Gesa
    - Antwort: Lea-Sophie
    - Bild von David und Lea-Sophie
@@ -47,17 +48,17 @@
    - Antwort: Tiger
 
 9. **Arbeitskollegen** (HG)
-   - "Witzige Frage"
+   - "Welchen Spitznamen hat sich HG's Arbeitskollege Wolfgang durch seine Allwissenheit verdient?"
    - Zu beantworten von: Arbeitskollegen
-   - Antwort: witzige Antwort
+   - Antwort: Wolfipedia
 
 10. **Roller** (Martina)
-   - "Mit welchem festlich geschmückten Gefährt wurde die frisch Vermählte vom Standesamt zum Restaurant chauffiert?"
+   - "Mit welchem festlich geschmückten Gefährt wurde die frisch Vermählte Martina vom Standesamt zum Restaurant chauffiert?"
    - Zu beantworten von: Claudia/Stefan
    - Antwort: Roller
 
 11. **Britta** (Martina)
-   - "Welchen Stadtteil wollte Martina mit ihrer langjährigen Freundin im Rahmen eines Wettbewerbes bereichern?"
+   - "Welchen Stadtteil wollten Martina und ihre langjährigen Freundin im Rahmen des 300. Geburtstags der Stadt Karlsruhe durch ihre Kreativität bereichern?"
    - Zu beantworten von: Britta
    - Antwort: Rüppurr
 
@@ -65,10 +66,10 @@
 Aufgabentext auf einem Zettel passt zu Bild auf nächstem Zettel
 
 ## Wichtiger Hinweis für alle Aufgaben
-Besprecht am Tisch, wer als Botschafter losgeht - es darf immer nur EINE Person gleichzeitig unterwegs sein! Dies gilt für Aktivitäten genauso wie für das Einholen von Informationen.
+Denkt dran - immer nur EINEN Botschafter losschicken!
 
 ## Spielziel
-Fundort eines Feuerzeugs und Tischfeuerwerk werden auf dem Gewinnertisch angezündet
+Der finale code gibt dem Gewinnertisch Zugriff auf den Auslöser für das Tischfeuerwerk
 
 ## Preis
 Eröffnung Dessert-Buffet

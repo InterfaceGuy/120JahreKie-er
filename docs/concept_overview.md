@@ -29,13 +29,24 @@
 
 ## TODO Liste:
 - [x] hervorgehobene Buchstaben entfernen (sowohl im text als auch stichpunkte)
-- [ ] zahlen der aufgaben anpassen
-- [ ] Aufgabenliste auf 11 items ergänzen
-- [ ] Fragen schön ausformulieren
-- [ ] Finales Kreuzworträtsel erstellen
-- [ ] Verbindung zu vierstelligem Mastercode herstellen
-  - [ ] vierstelliges Lösungswort in Kreuzworträtsel auf Alphabet Nummern mappen
-- [ ] Relevante Bilder finden bzw. generieren
+- [x] zahlen der aufgaben anpassen
+- [x] Aufgabenliste auf 11 items ergänzen
+- [x] Fragen schön ausformulieren
+- [x] Finales Kreuzworträtsel erstellen
+- [x] Verbindung zu vierstelligem Mastercode herstellen
+  - [x] vierstelliges Lösungswort in Kreuzworträtsel auf Alphabet Nummern mappen
+- [x] Relevante Bilder finden bzw. generieren
+	- [x] Kollage 5 Kinder
+	- [x] Martinsael AI
+	- [x] Bombe HG
+	- [x] TC 72 Griesheim HG
+	- [x] David+Lea-Sophie
+	- [x] Nilpferd AI
+	- [x] Zeitreise Hochzeit
+	- [x] Tiger AI
+	- [x] Wikipedia logo
+	- [x] Roller bild claudy
+	- [x] Rüppurr Schlüssel
 - [ ] Aufgabenzettel gestalten
   - [ ] Bild oben, Aufgabentext unten
   - [ ] Aufgabentext und Bild verbinden jeweils immer zwei aufeinanderfolgende Aufgabenzettel miteinander um den Kreis zu formen
